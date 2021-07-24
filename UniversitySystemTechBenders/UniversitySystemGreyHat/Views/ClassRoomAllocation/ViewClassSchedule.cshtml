@@ -1,0 +1,216 @@
+﻿@using UniversitySystemTechBenders.Models
+@model UniversitySystemTechBenders.Models.ViewModel.ClassAllocationViewModel
+@{
+    Layout = null;
+    List<SelectListItem> departments = ViewBag.departments;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/StyleSheet/Nav.css" rel="stylesheet" />
+    <style>
+        .field-validation-error {
+            color: blue;
+            font-family: 'Abel', sans-serif;
+            font-size: 18px;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 100%;
+        }
+        .nav {
+            background-color: #0078ff;
+        }
+        #ClassTable td, #ClassTable th; {
+            padding: 8px;
+        }
+
+        #ClassTable tr:nth-child(even) {
+            background-color: #98fb98;
+        }
+        #ClassTable {
+            font-family: 'Abel', sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 20px;
+            display: inline-block;
+        }
+
+            #ClassTable td, #ClassTable th {
+                border: 1px solid cornflowerblue;
+                padding: 8px;
+            }
+
+            #ClassTable tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            #ClassTable tr:hover {
+                background-color: aquamarine;
+            }
+
+       
+        .departmentName {
+            margin-left: 2%;
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .department {
+            margin-left: 32%;
+        }
+       
+
+        #ClassTable td {
+            width: 150px;
+        }
+
+        #ClassTable tr {
+            height: 45px;
+        }
+
+        ::-webkit-input-placeholder {
+            color: #000;
+            font-size: 16px;
+            letter-spacing: 2px;
+            padding-left: 10px;
+        }
+    </style>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="shortcut icon" type="/images/ico" href="/images/varsity.ico" />
+    <title>View Class Schedule</title>
+    <link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="header" id="home">
+        <nav class="nav">
+            <div class="logo">University Management</div>
+            <ul>
+                <li>
+                    <a href="#">Department</a>
+                    <ul>
+                        <li style="height: 40px;"><a href='@Url.Action("Save", "Department")'>Save Department</a></li>
+                        <li style="height: 55px;"><a href='@Url.Action("GetAllDepartments", "Department")'>View Departments</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Course</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("SaveCourse", "Course")'>Save Course</a></li>
+                        <li style="height: 40px;"><a href='@Url.Action("Save", "AssignCourseToTeacher")'>Assign Course</a></li>
+                        <li style="height: 35px;"><a href='@Url.Action("CourseStatistics", "AssignCourseToTeacher")'>View Course Statics</a></li>
+                        <li style="height: 45px;"><a href='@Url.Action("Save", "EnrollCourse")'>Enroll Course</a></li>
+                    </ul>
+                </li>
+                <li><a href='@Url.Action("Save", "Teacher")'>Teacher</a></li>
+                <li><a href='@Url.Action("Save", "RegisterStudent")'>Register Student</a></li>
+                <li>
+                    <a href="#">Allocate Class Room</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("Save", "ClassRoomAllocation")'>Class Room Allocation</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("ViewClassSchedule", "ClassRoomAllocation")'>View Class Schedule</a></li>
+    </ul>
+                </li>
+                <li>
+                    <a href="#">Student Result</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("Save", "StudentResult")'>Save Student Result</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("ViewResult", "StudentResult")'>View Result</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Unassign</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("UnAllocate", "UnAllocate")'>Unassign Room</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("Unassign", "UnassignCourses")'>Unassign Course</a></li>
+                    </ul>
+                </li>
+
+                <li><a href='@Url.Action("Login", "Login")'>Logout</a></li>
+
+            </ul>
+
+        </nav>
+    </div>
+<div style="font-family: 'abel', sans-serif; font-size: 18px; margin: 13% auto;">
+    @Html.Label("Department", "Department Name : ", new {@class = "department"})
+
+    @Html.DropDownList("DepartmentId", new SelectList(departments, "Value", "Text"), new {@class = "departmentName"})
+    @Html.ValidationMessage("DepartmentId")
+    <div style="width: 800px; margin:80px auto;">
+        <table id="ClassTable" style="font-family: 'abel', sans-serif; font-size: 18px; margin-left:2%;">
+            <thead>
+            <tr>
+                <th style="background-color: lightseagreen; color: white; ">Course Code</th>
+                <th style="background-color: lightseagreen; color: white; ">Course Name</th>
+                <th style="width: 450px; background-color: lightseagreen; color: white;">Schedule Info</th>
+            </tr>
+            </thead>
+            <tbody id="viewClass"></tbody>
+        </table>
+    </div>
+</div>
+<script src="~/Scripts/jquery-1.12.4.min.js"></script>
+<script>
+    $(document).ready(function() {
+
+
+        $('#DepartmentId').change(function() {
+
+            var departmentId = $('#DepartmentId').val();
+
+            var json = { departId: departmentId };
+            $.ajax({
+                type: "POST",
+
+                url: '@Url.Action("GetClassRoutineByDepartmentId", "ClassRoomAllocation")',
+
+
+                contentType: "application/json; charset=utf-8",
+
+                data: JSON.stringify(json),
+
+                success: function(data) {
+                    $('#viewClass').empty();
+                    //$("#DepartmentId").append('<option value="">--Select--</option>');
+                    $.each(data, function(key, value) {
+
+
+                        $("#viewClass").append('<tr> <td>' + value.CourseCode + '</td> <td>' + value.CourseName + '</td> <td>' + value.ScheduleInfo + '</td> </tr>');
+                    });
+
+
+                }
+            });
+
+
+        });
+    });
+
+
+</script>
+
+@*<script src="~/Scripts/jquery-1.12.4.min.js"></script>
+<script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#ClassTable').DataTable();
+    });
+</script>*@
+
+</body>
+</html>

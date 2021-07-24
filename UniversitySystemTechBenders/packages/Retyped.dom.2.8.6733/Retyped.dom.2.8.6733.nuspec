@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.5">
+    <id>Retyped.dom</id>
+    <version>2.8.6733</version>
+    <title>Retyped.dom</title>
+    <authors>Object.NET, Inc.</authors>
+    <owners>Object.NET, Inc.</owners>
+    <licenseUrl>https://github.com/bridgedotnet/Bridge/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://retyped.com/</projectUrl>
+    <iconUrl>https://speed.retyped.com/identity/retyped-100x100.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DOM binding library for Bridge.NET projects.</description>
+    <summary />
+    <copyright>Copyright (c) 2008-2018, Object.NET, Inc. (http://object.net/). All rights reserved.</copyright>
+    <tags>dom typescript ts tsc js javascript c# csharp dotnet mobile ios web transpiler compiler retyped bridge bridge.net object.net</tags>
+    <dependencies>
+      <dependency id="Retyped.es5" version="2.8.6733" />
+    </dependencies>
+  </metadata>
+</package>

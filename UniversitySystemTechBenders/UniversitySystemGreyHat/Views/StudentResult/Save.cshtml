@@ -1,0 +1,353 @@
+﻿@model UniversityManagementWebApp.Models.ViewModel.StudentViewModel
+@{
+    Layout = null;
+    List<SelectListItem> gradeLetters = ViewBag.GradeLetters;
+    List<SelectListItem> students = ViewBag.Students;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 100%;
+        }
+        .nav {
+            background-color: #0078ff;
+        }
+         .field-validation-error {
+             color: red;
+             font-family: 'abel', sans-serif;
+             font-size: 18px;
+         }
+
+        #resultTable {
+            margin-left: 32%;
+            margin-top: 8%;
+        }
+
+        #resultTable td {
+            width: 150px;
+        }
+
+        #resultTable tr {
+            height: 45px;
+        }
+
+        ::-webkit-input-placeholder {
+            color: #000;
+            font-size: 16px;
+            letter-spacing: 2px;
+            padding-left: 10px;
+        }
+        .student {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .name {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .email {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .Department {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .course {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .grade {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        #save {
+            margin-top: 10px;
+            margin-left: 56%;
+            height: 36px;
+            width: 130px;
+            background: dodgerblue;
+            color: #fff;
+            border: none;
+            border: 1px solid black;
+            border-radius: 6px;
+            font-family: 'Abel';
+            letter-spacing: .2em;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        #save:hover {
+            background-color: #0078ff;
+        }
+    </style>
+    <meta name="viewport" content="width=device-width"/>
+    <link rel="shortcut icon" type="/images/ico" href="/images/varsity.ico" />
+    <title>Save Student Result</title>
+    <link href="~/StyleSheet/Nav.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="header" id="home">
+        <nav class="nav">
+            <div class="logo">University Management</div>
+            <ul>
+                <li>
+                    <a href="#">Department</a>
+                    <ul>
+                        <li style="height: 40px;"><a href='@Url.Action("Save", "Department")'>Save Department</a></li>
+                        <li style="height: 55px;"><a href='@Url.Action("GetAllDepartments", "Department")'>View Departments</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Course</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("SaveCourse", "Course")'>Save Course</a></li>
+                        <li style="height: 40px;"><a href='@Url.Action("Save", "AssignCourseToTeacher")'>Assign Course</a></li>
+                        <li style="height: 35px;"><a href='@Url.Action("CourseStatistics", "AssignCourseToTeacher")'>View Course Statics</a></li>
+                        <li style="height: 45px;"><a href='@Url.Action("Save", "EnrollCourse")'>Enroll Course</a></li>
+                    </ul>
+                </li>
+                <li><a href='@Url.Action("Save", "Teacher")'>Teacher</a></li>
+                <li><a href='@Url.Action("Save", "RegisterStudent")'>Register Student</a></li>
+                <li>
+                    <a href="#">Allocate Class Room</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("Save", "ClassRoomAllocation")'>Class Room Allocation</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("ViewClassSchedule", "ClassRoomAllocation")'>View Class Schedule</a></li>
+  </ul>
+                </li>
+                <li>
+                    <a href="#">Student Result</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("Save", "StudentResult")'>Save Student Result</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("ViewResult", "StudentResult")'>View Result</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Unassign</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("UnAllocate", "UnAllocate")'>Unassign Room</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("Unassign", "UnassignCourses")'>Unassign Course</a></li>
+                    </ul>
+                </li>
+
+                <li><a href='@Url.Action("Login", "Login")'>Logout</a></li>
+
+            </ul>
+
+        </nav>
+    </div>
+<div style="font-family: 'abel', sans-serif; font-size: 18px; margin-top: 13%;margin-left: 33%">
+
+    <form id="StudentResultSaveForm" method="POST" onsubmit="return Confirmation()">
+        <table id=" resulttable">
+        <tr>
+            <td>@Html.Label("Student Reg No : ")</td>
+            <td>
+                @Html.DropDownList("StudentId", new SelectList(students, "Value", "Text"), new { @class = "student" })
+                @Html.ValidationMessageFor(x => x.StudentId)
+
+            </td>
+        <tr>
+            <td>@Html.Label("Name : ")</td>
+            <td>
+                @Html.TextBoxFor(x => x.Name, new { disabled = true, @class = "name", @placeholder = "Student Name" })
+
+            </td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Email : ")</td>
+            <td>
+                @Html.TextBoxFor(x => x.Email, new { disabled = true, @class = "email", @placeholder = "Student Email" })
+            </td>
+        </tr>
+
+        <tr>
+            <td>@Html.Label("Department : ")</td>
+            <td>
+                @Html.TextBoxFor(x => x.DepartmentCode, new { disabled = true, @class = "Department", @placeholder = "Student Department" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.Label("Course : ")
+            </td>
+
+            <td>
+                @Html.DropDownList("CourseId", new SelectList(""), "--Select a Course--", new { @class = "course" })
+                @Html.ValidationMessageFor(x => x.CourseId)
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>@Html.Label("Grade Letter : ")</td>
+            <td>
+
+                @Html.DropDownList("GradeLetterId", new SelectList(gradeLetters, "Value", "Text"), new { @class = "grade" })
+                @Html.ValidationMessageFor(x => x.GradeLetterId)
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" id="save" name="save" value="Save" />
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                @if (ViewBag.Message != null)
+                {
+                    <label style="font-family: 'abel', sans-serif; font-size: 18px;">@ViewBag.Message</label>
+                }
+            </td>
+        </tr>
+        </table>
+
+        <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+        <script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+        <script>
+            $(document).ready(function() {
+
+                $('#StudentId').change(function() {
+
+                    var studentId = $('#StudentId').val();
+
+                    var json = { studentId: studentId };
+
+                    $.ajax({
+                        type: "POST",
+
+                        url: '@Url.Action("GetStudentById", "EnrollCourse")',
+
+
+                        contentType: "application/json; charset=utf-8",
+
+                        data: JSON.stringify(json),
+
+                        success: function(data) {
+                            $("#Name").empty();
+                            $("#Email").empty();
+                            $("#DepartmentCode").empty();
+
+
+                            $("#Name").val(data.Name);
+                            $("#Email").val(data.Email);
+                            $("#DepartmentCode").val(data.DepartmentCode);
+
+                        }
+                    });
+
+                });
+            });
+        </script>
+        <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+
+        <script>
+            $(document).ready(function() {
+
+                $('#StudentId').change(function() {
+
+                    var studentId = $('#StudentId').val();
+
+                    var json = { studtId: studentId };
+
+                    $.ajax({
+                        type: "POST",
+
+                        url: '@Url.Action("GetCourseById", "StudentResult")',
+
+
+                        contentType: "application/json; charset=utf-8",
+
+                        data: JSON.stringify(json),
+
+                        success: function(data) {
+                            $("#CourseId").empty();
+                            $("#CourseId").append('<option value="">--Select a Course--</option>');
+                            $.each(data, function(key, value) {
+
+                                $("#CourseId").append('<option value=' + value.CourseId + '>' + value.CourseName + '</option>');
+                            });
+
+                        }
+                    });
+
+                });
+            });
+        </script>
+        <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+
+        <script>
+            function Confirmation() {
+                if ($("#GradeLetterId :Selected").text() !== " ") {
+                    var a = confirm("Are you sure want to save?");
+                    if (a === true) {
+                        return true;
+                    } else {
+                        return false;
+                    }
+                }
+            }
+        </script>
+
+    </form>
+</div>
+</body>
+</html>

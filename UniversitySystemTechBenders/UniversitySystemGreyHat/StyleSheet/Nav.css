@@ -1,0 +1,111 @@
+﻿
+nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 90%;
+            height: auto;
+            padding: 1% 6%;
+            transition: .3s;
+            background: #cf0000;
+        }
+
+            nav.black {
+                background: rgba(0,0,0,.8);
+                width: 90%;
+                height: 5%;
+                padding: 10px 100px;
+            }
+          
+       
+        
+       
+      nav ul li a:hover
+ {
+             border-radius:2%;
+            color:black;
+
+        }
+       
+       nav ul  ul
+        {
+            margin:0px;
+           padding: 0px;
+            position:absolute;
+            display:none;
+           background-color: black;
+           width: auto;
+           
+        }
+     
+       nav ul li:hover >ul
+        {
+            display:block;
+           position: absolute;
+           margin-right:0.5%;
+           text-align: center;
+           padding: 0px;
+           border-radius: 3%;
+           background-color: #015965;
+            
+        }
+           
+
+            nav ul {
+                list-style: none;
+                float: right;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                
+            }
+
+                nav ul li {
+                    list-style: none;
+                }
+
+                    nav ul li a {
+                        line-height:50px;
+                        color: #fff;
+                        padding:5px 10px;
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        font-family: 'Abel', sans-serif;
+                        font-size: 16px;
+                        font-weight: bold;
+                        transition: .3s;
+                    }
+
+                        nav ul li a:hover {
+                            color: cyan;
+                        }
+
+            nav.black ul li a {
+                color: #fff;
+            } nav .logo {
+                padding: 5px 0px;
+                height: auto;
+                float: left;
+                color: #fff;
+                font-family: 'Abel', sans-serif;
+                font-size: 150%;
+                margin-left: 5px;
+            }
+
+
+
+            nav ul li a:focus {
+                outline: none;
+            }
+
+            nav ul li a.active {
+                background: #4268B2;
+                color: #fff;
+                border-radius: 6px;
+                font-size: 12px;
+                font-weight: bold;
+            }
+
+                nav ul li a.active:hover {
+                    background: blue;
+                }

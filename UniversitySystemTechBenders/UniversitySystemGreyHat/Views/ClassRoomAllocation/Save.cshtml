@@ -1,0 +1,368 @@
+﻿@model UniversitySystemTechBenders.Models.ClassRoomAllocation
+@{
+    Layout = null;
+    List<SelectListItem> departments = ViewBag.departments;
+    List<SelectListItem> rooms = ViewBag.rooms;
+    List<SelectListItem> days = ViewBag.days;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/StyleSheet/Nav.css" rel="stylesheet" />
+    <style>
+        .field-validation-error {
+            color: red;
+            font-family: 'abel', sans-serif;
+            font-size: 18px;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 100%;
+        }
+        .nav {
+            background-color: #0078ff;
+        }
+        #allocateTable {
+            margin-left: 30%;
+            margin-top: 8%;
+        }
+
+            #allocateTable td {
+                width: 150px;
+            }
+
+            #allocateTable tr {
+                height: 45px;
+            }
+        ::-webkit-input-placeholder {
+            color: #000;
+            font-size: 16px;
+            letter-spacing: 2px;
+            padding-left: 10px;
+        }
+
+        .department {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .course {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .room {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .day {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .fromTime {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        .toTime {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: #000;
+            padding-left: 5px;
+            border-radius: 10px;
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 16px;
+        }
+        #save {
+            margin-top: 10px;
+            margin-left: 58%;
+            height: 36px;
+            width: 130px;
+            background: dodgerblue;
+            color: #fff;
+            border: none;
+            border: 1px solid black;
+            border-radius: 6px;
+            font-family: 'Abel';
+            letter-spacing: .2em;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+            #save:hover {
+                background-color: #0078ff;
+            }
+    </style>
+    <meta name="viewport" content="width=device-width"/>
+    <link rel="shortcut icon" type="/images/ico" href="/images/varsity.ico" />
+    <title>Save Allocate Class Room</title>
+    <link href="~/Content/jquery.timepicker.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="header" id="home">
+        <nav class="nav">
+            <div class="logo">University Management</div>
+            <ul>
+                <li>
+                    <a href="#">Department</a>
+                    <ul>
+                        <li style="height: 40px;"><a href='@Url.Action("Save", "Department")'>Save Department</a></li>
+                        <li style="height: 55px;"><a href='@Url.Action("GetAllDepartments", "Department")'>View Departments</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Course</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("SaveCourse", "Course")'>Save Course</a></li>
+                        <li style="height: 40px;"><a href='@Url.Action("Save", "AssignCourseToTeacher")'>Assign Course</a></li>
+                        <li style="height: 35px;"><a href='@Url.Action("CourseStatistics", "AssignCourseToTeacher")'>View Course Statics</a></li>
+                        <li style="height: 45px;"><a href='@Url.Action("Save", "EnrollCourse")'>Enroll Course</a></li>
+                    </ul>
+                </li>
+                <li><a href='@Url.Action("Save", "Teacher")'>Teacher</a></li>
+                <li><a href='@Url.Action("Save", "RegisterStudent")'>Register Student</a></li>
+                <li>
+                    <a href="#">Allocate Class Room</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("Save", "ClassRoomAllocation")'>Class Room Allocation</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("ViewClassSchedule", "ClassRoomAllocation")'>View Class Schedule</a></li>
+ </ul>
+                </li>
+                <li>
+                    <a href="#">Student Result</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("Save", "StudentResult")'>Save Student Result</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("ViewResult", "StudentResult")'>View Result</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Unassign</a>
+                    <ul>
+                        <li style="height: 35px;"><a href='@Url.Action("UnAllocate", "UnAllocate")'>Unassign Room</a></li>
+                        <li style="height: 50px;"><a href='@Url.Action("Unassign", "UnassignCourses")'>Unassign Course</a></li>
+                    </ul>
+                </li>
+
+                <li><a href='@Url.Action("Login", "Login")'>Logout</a></li>
+
+            </ul>
+
+        </nav>
+    </div>
+<div style="font-family: 'abel', sans-serif; font-size: 18px; margin-top: 13%;">
+
+    <form id="allocationSaveForm" method="POST">
+        <table id="allocateTable">
+            <tr>
+                <td>@Html.Label("Department")</td>
+                <td>
+                    @Html.DropDownList("DepartmentId", new SelectList(departments, "Value", "Text"), new
+                    {
+                        @class = "department"
+                    })
+                    @Html.ValidationMessage("DepartmentId")
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.Label("Course")
+                </td>
+
+                <td>
+                    @Html.DropDownList("CourseId", new SelectList(""), "--Select a course--", new
+                    {
+                        @class = "course"
+                    })
+                    @Html.ValidationMessage("CourseId")
+
+
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.Label("RoomNo")</td>
+                <td>
+                    @Html.DropDownList("RoomId", new SelectList(rooms, "Value", "Text"), new
+                    {
+                        @class = "room"
+                    })
+                    @Html.ValidationMessage("RoomId")
+
+
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.Label("Day")</td>
+                <td>
+                    @Html.DropDownList("DayId", new SelectList(days, "Value", "Text"), new
+                    {
+                        @class = "day"
+                    })
+                    @Html.ValidationMessage("DayId")
+
+
+                </td>
+            </tr>
+
+            <tr>
+                <td>@Html.Label("From")</td>
+                <td>
+                    @Html.TextBoxFor(x => x.FromTime, new
+                    {
+                        @class = "fromTime", @placeholder = "Select a time"
+                    })
+                    @Html.ValidationMessageFor(x => x.FromTime)
+
+
+                    @*  <input type="text" name="FromTime" id="FromTime"/>*@
+
+                </td>
+
+            </tr>
+
+
+            <tr>
+                <td>@Html.Label("To")</td>
+                <td>
+                    @Html.TextBoxFor(x => x.ToTime, new
+                    {
+                        @class = "toTime",
+                        @placeholder = "Select a time"
+                    })
+                    @Html.ValidationMessageFor(x => x.ToTime)
+                    @*<input type="text" name="ToTime" id="ToTime"/>*@
+
+                </td>
+
+            </tr>
+
+            <tr>
+                <td></td>
+                <td align="right">
+
+                    <input type="submit" id="save" value="Allocate"/>
+
+                </td>
+
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    @if (ViewBag.Message != null)
+                    {
+                        <label style="font-family: 'Abel', sans-serif; font-size: 18px;">@ViewBag.Message</label>
+                    }
+                </td>
+            </tr>
+        </table>
+    </form>
+
+
+
+
+
+    @*<script src="~/Scripts/jquery-1.12.4.min.js"></script>*@
+
+    <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+
+    @*For Course*@
+    <script>
+        $(document).ready(function() {
+
+            $('#DepartmentId').change(function() {
+
+                var departmentId = $('#DepartmentId').val();
+
+                var json = { departId: departmentId };
+
+                $.ajax({
+                    type: "POST",
+
+                    url: '@Url.Action("GetCourseByDepartmentId", "ClassRoomAllocation")',
+
+
+                    contentType: "application/json; charset=utf-8",
+
+                    data: JSON.stringify(json),
+
+                    success: function(data) {
+                        $("#CourseId").empty();
+                        $("#CourseId").append('<option value="">--Select a course--</option>');
+
+                        $.each(data, function(key, value) {
+
+
+                            $("#CourseId").append('<option value=' + value.CourseId + '>' + value.Name + '</option>');
+
+
+                        });
+
+
+                    }
+                });
+
+
+            });
+        });
+    </script>
+    <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</div>
+<script src="~/Scripts/jquery-1.12.4.min.js"></script>
+<script src="~/Scripts/jquery.timepicker.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#FromTime').timepicker({});
+    });
+</script>
+
+<script>
+    $(document).ready(function() {
+        $('#ToTime').timepicker({});
+    });
+</script>
+</body>
+</html>

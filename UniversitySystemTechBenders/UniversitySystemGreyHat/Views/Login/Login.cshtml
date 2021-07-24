@@ -1,0 +1,155 @@
+﻿@model UniversitySystemTechBenders.Models.Login
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 100%;
+            background-image: url(/images/TechBenders.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .field-validation-error {
+            color: red;
+            font-family: 'abel', sans-serif;
+            font-size: 18px;
+        }
+
+        ::-webkit-input-placeholder {
+            color: black;
+            font-size: 16px;
+            letter-spacing: 2px;
+            padding-left: 10px;
+        }
+
+        .usernameLabel {
+            font-family: 'abel', sans-serif;
+            font-size: 22px;
+            color: black;
+            margin-left: 10%;
+        }
+
+        .username {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: black;
+            padding-left: 5px;
+            background-color: rgba(0, 0, 0, 0);
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 18px;
+        }
+
+        .passwordLabel {
+            font-family: 'abel', sans-serif;
+            font-size: 22px;
+            color: black;
+            margin-left: 10%;
+        }
+
+        .password {
+            width: 300px;
+            height: 35px;
+            border: none;
+            color: black;
+            padding-left: 5px;
+            background-color: rgba(0, 0, 0, 0);
+            border: 1px solid #0078ff;
+            font-family: 'abel', sans-serif;
+            font-size: 18px;
+        }
+
+        .login {
+            margin-top: 10px;
+            right: 1%;
+            height: 36px;
+            width: 50%;
+            background: dodgerblue;
+            color: black;
+            border: none;
+            border: 1px solid black;
+            border-radius: 6px;
+            font-family: 'Abel';
+            letter-spacing: .2em;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+            .login:hover {
+                background-color: #0078ff;
+            }
+
+        #messageLbl {
+            font-family: 'Abel';
+            font-size: 18px;
+            color: red;
+            position: relative;
+        }
+    </style>
+    <title>Login</title>
+</head>
+<body>
+    <div>
+
+        <form id="loginForm" name="login" method="POST">
+            <table style="margin: 150px auto;">
+                <tr>
+                    <td style="width:120px;">
+                        @Html.LabelFor(x => x.Username, new { @class = "usernameLabel" })
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(x => x.Username, new { @class = "username", placeholder = "Enter your username" })
+                        @Html.ValidationMessageFor(x => x.Username)
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">
+                        @Html.LabelFor(x => x.Password, new { @class = "passwordLabel" })
+                    </td>
+                    <td>
+                        @Html.PasswordFor(x => x.Password, new { @class = "password", placeholder = "Enter your password" })
+                        @Html.ValidationMessageFor(x => x.Password)
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" class="login" value="Login" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                       
+                        @if (ViewBag.Message != null)
+                        {
+                            <label id="messageLbl">@ViewBag.Message</label>
+                        }
+                    </td>
+                </tr>
+            </table>
+           
+
+        </form>
+        <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+        <script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,440 @@
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+C:\Users\ishaa\Desktop\MVC Project\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
+E:\BITM TASKS\UniversityManagementSystemWebApp\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+C:\Users\ishaa\Desktop\MVC Project\25th\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+E:\Multimedia\UniversitySystemGreyHat (1) (1)\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
+E:\BITM TASKS\UniversitySystemGreyHat\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+E:\Final_Project_Batch_19\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+C:\Users\hafiz\Desktop\BITM PROJECTS\BITM PROJECTS\Final\GreyHatMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll.config
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\UniversitySystemGreyHat.pdb
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Owin.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\WebGrease.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Helpers.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Mvc.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Optimization.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.Razor.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\System.Web.WebPages.Razor.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Antlr3.Runtime.pdb
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Newtonsoft.Json.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\EntityFramework.SqlServer.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.csprojResolveAssemblyReference.cache
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.dll
+C:\Users\hafiz\Downloads\Music\BITM PROJECTS\BITM PROJECTS\Final\TechBandersMVC\TechBandersMVC\UniversitySystemGreyHat\UniversitySystemGreyHat\obj\Debug\UniversitySystemGreyHat.pdb
